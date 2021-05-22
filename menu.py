@@ -2,7 +2,7 @@ import os
 import getpass
 
 os.system("tput setaf 3")
-print("\n\t\t******************Welcome To My Automation Tool*******************")
+print("\n\t\t******************AutoPY Welcomes You!!*******************")
 os.system("tput setaf 7")
 print("\n\t------------------------------------------------------------------------------------------------------")
 
